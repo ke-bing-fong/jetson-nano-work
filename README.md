@@ -2,7 +2,7 @@
 car.avi 和 python_trt原文件 都源自於
 bilibili落叶随峰這位大大的github，
 
-而yolov5.dll和yolov5s.engin則是透過官網yolov5的yolov5s.pt和 Monday-Leo這位大大的教學
+而 yolov5.dll 和 yolov5s.engin 則是透過官網 yolov5 的 yolov5s.pt 和 Monday-Leo這位大大的教學
 
 透過cmake轉譯再用vs2019編譯所產生出來的，以下有資料文件的來源和以上提到落叶随峰和Monday-Leo的教學來源。
 
