@@ -1,0 +1,3 @@
+cd C:\Users\user\Desktop\a\Jeston nano_tensorrt\部署
+activate tensorflow
+python python_trt.py
